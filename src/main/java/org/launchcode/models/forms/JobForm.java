@@ -60,8 +60,8 @@ public class JobForm {
         return positionTypeId;
     }
 
-    public void setPositionTypeId(int positionType) {
-        this.positionTypeId = positionType;
+    public void setPositionTypeId(int positionTypeId) {
+        this.positionTypeId = positionTypeId;
     }
 
     public JobForm() {
